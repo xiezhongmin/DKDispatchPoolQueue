@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/git/DKDispatchPoolQueue'
+  s.homepage         = 'https://github.com/xiezhongmin/DKDispatchPoolQueue'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'git' => '364101515@qq.com' }
-  s.source           = { :git => 'https://github.com/git/DKDispatchPoolQueue.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xiezhongmin/DKDispatchPoolQueue.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
   s.source_files = 'DKDispatchPoolQueue/*.{h,m}'
